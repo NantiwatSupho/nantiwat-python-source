@@ -16,3 +16,5 @@ letters = list("hello")  # ['h', 'e', 'l', 'l', 'o']
 print(f"Fruits: {fruits}")
 print(f"Numbers: {numbers}")
 print(f"Mixed: {mixed_list}")
+print(f"Range: {numbers_range}")
+print(f"Letters: {letters}")
