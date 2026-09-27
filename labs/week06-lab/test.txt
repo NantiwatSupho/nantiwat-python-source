@@ -1,0 +1,61 @@
+#part2
+example1
+Calling greet_person with ddiffernt names:
+Hello, Alice! Nice to meet you.
+Hello, Bob! Nice to meet you.
+Hello, Charlie! Nice to meet you.
+
+example2
+Calling introduce_person:
+Hi! My name is Diana.
+I am 25 years old.
+I live in New York.
+
+Hi! My name is Eve.
+I am 30 years old.
+I live in Los Angeles.
+
+example3
+Calculating rectangle areas:
+Rectangle with length 5 and width 3
+Area = 5 x 7 = 35
+
+Rectangle with length 10 and width 7
+Area = 10 x 7 = 70
+
+#part3
+example1
+Using Functions that return values:
+5 + 3 = 8
+10 + 7 = 17
+Sum of both results: 25
+
+example2
+Circle calculations:
+Circle with radius 5:
+Area: 78.53
+Circumference: 31.41
+
+example3
+Using return values in expressions:
+multiply(4, 5) + square(3) = 20 + 9 = 29
+
+#part4
+example1
+Using default parameters:
+Hello, Mr./Ms. Smith!
+Hello, Dr. Fohnson!
+hello, Prof. Brown!
+
+example2
+Multiple default parameters:
+Profile: Alice, Age: 18, Country: Unknown
+Profile: Bob, Age: 25, Country: Unknown
+Profile: Charlie, Age: 30, Country: USA
+
+example3
+Power function with defaults:
+power(5) = 25
+power(5, 3) = 125
+power(2, 4) = 16
+
